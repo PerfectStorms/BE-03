@@ -28,16 +28,14 @@
 - An Introduction to Design Patterns (Part 1).
 
 ### Module 3. Collections
-Types of collections. Collections interface. Collection hierarchy.
-List interface.
-Interface Set.
-Queue Interface
-Map interface.
-Immutable collections.
-Thread safe collections.
-Introduction to Design Patterns (Part 2).
-Write your own structures for storing an array of data.
-Interview
+- Types of collections. Collections interface. Collection hierarchy.
+- List interface.
+- Interface Set.
+- Queue Interface
+- Map interface.
+- Immutable collections.
+- Thread safe collections.
+- Introduction to Design Patterns (Part 2).
 
 ### Module 4. JAVA IO and multithreading
 - Input and output streams.
