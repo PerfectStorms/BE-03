@@ -52,3 +52,5 @@ This is my first project on github!
 
 ### 7. Link github account to Intellij Idea and share your project
 ![share_project](https://i.stack.imgur.com/Wuaun.png)
+
+### 8. Check that your created repository exists
