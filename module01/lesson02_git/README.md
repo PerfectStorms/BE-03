@@ -14,7 +14,7 @@
 10. Return (checkout) to the master branch and create another branch with name 'fix' 
 11. Repeat tasks 5-7 in the new *fix* branch, but before push create 2 commits except 1 
 12. Return (checkout) to the *develop* branch and merge *fix* branch to this branch 
-13.Resolve merge conflicts 
+13. Resolve merge conflicts 
 
 >Tasks 8-13 are optional, as they are difficult to solve
 
@@ -28,7 +28,8 @@ You can download it [here](https://git-scm.com/downloads).
 ![register_area](https://git-scm.com/book/en/v2/images/signup.png)
 
 ### 3. Init git local repository
-#### 3.1 Open the terminal and enter there ```git init```
+#### 3.1 Open the terminal. It's attached to the bottom panel, or call Alt+F12
+#### 3.2 Enter there ```git init```
 
 ### 4. Сreate a *.gitignore* file in the root of the project
 #### 4.1 Write the text below to *.gitignore* file 
@@ -52,3 +53,6 @@ This is my first project on github!
 
 ### 7. Link github account to Intellij Idea and share your project
 ![share_project](https://i.stack.imgur.com/Wuaun.png)
+
+### 8. Check that your created repository exists
+
