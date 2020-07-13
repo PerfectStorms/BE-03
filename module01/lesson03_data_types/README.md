@@ -4,7 +4,7 @@
 
 ### 1. Task for byte data type:
    Write a fragment of the class (group of commands) that will assign 
-   the first value: ​​127, and the second: 254, 
+   the first value: ​​127, and the second: 255, 
    and then the third variable will receive a value 
    equal to the substraction of the values ​​of the two variables.
     
