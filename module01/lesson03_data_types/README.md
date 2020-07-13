@@ -10,12 +10,12 @@
     
     An example of the class name for this assignment is presented below:   
 ```java
-    public class ProgramTask31 {
-        public static void main(String[] args) {
-// Write down here (in the comment to the program) how many 
-// values ​​the byte data type stores and how much memory it takes.
-        }
-    }
+public class ProgramTask31 {
+   public static void main(String[] args) {
+      // Write down here (in the comment to the program) how many 
+      // values ​​the byte data type stores and how much memory it takes.
+   }
+}
 ```  
 ### 2. Task for the short data type:
    Write a fragment of the class (group of commands) that will assign 
@@ -25,12 +25,12 @@
     
     An example of the class name for this assignment is presented below:   
 ```java
-        public class ProgramTask32 {
-            public static void main(String[] args) {
-// Write down here (in the comment to the program) how many 
-// values ​​the short data type stores and how much memory it takes.
-            }
-        }
+public class ProgramTask32 {
+   public static void main(String[] args) {
+      // Write down here (in the comment to the program) how many 
+      // values ​​the short data type stores and how much memory it takes.
+   }
+}
 ```    
 ### 3. Task for the int data type:
     
@@ -41,12 +41,12 @@
     
     An example of the class name for this assignment is presented below:   
 ```java
-        public class ProgramTask33 {
-            public static void main(String[] args) {
-// Write down here (in the comment to the program) how many 
-// values ​​the int data type stores and how much memory it takes.
-            }
-        }
+public class ProgramTask33 {
+   public static void main(String[] args) {
+      // Write down here (in the comment to the program) how many 
+      // values ​​the int data type stores and how much memory it takes.
+   }
+}
 ```    
 ### 4. Task for the long data type:
     
@@ -55,11 +55,11 @@
     
     An example of the class name for this assignment is presented below:   
 ```java
-        public class ProgramTask34 {
-            public static void main(String[] args) {
-// Write down here the answer to the question.
-            }
-        }
+public class ProgramTask34 {
+   public static void main(String[] args) {
+      // Write down here the answer to the question.
+   }
+}
 ```    
 ### 5. Task for the float and double data types:
    Given a floating-point number "A", which stores 1245.554 kilograms of apples and a double number "B", 
@@ -68,12 +68,12 @@
     
     An example of the class name for this assignment is presented below:   
 ```java
-    public class ProgramTask35 {
-        public static void main(String[] args) {
-// Write down here (in the comment to the program) how many 
-// values ​​the float, double data type store and how much memory it take.
-        }
-    }
+public class ProgramTask35 {
+   public static void main(String[] args) {
+      // Write down here (in the comment to the program) how many 
+      // values ​​the float, double data type store and how much memory it take.
+   }
+}
 ```  
 ### 6. Task for the char data type:
    Write a class which displays the character in the first line
@@ -81,12 +81,12 @@
     
     An example of the class name for this assignment is presented below:   
 ```java
-    public class ProgramTask36 {
-        public static void main(String[] args) {
-// Write down here (in the comment to the program) how many 
-// values ​​the char data type store and how much memory it take.
-        }
-    }
+public class ProgramTask36 {
+   public static void main(String[] args) {
+      // Write down here (in the comment to the program) how many 
+      // values ​​the char data type store and how much memory it take.
+   }
+}
 ``` 
 ### 7. Task for all data types:
     Below are the lines of the code. Mark those that will be compiled without errors.
