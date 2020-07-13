@@ -88,4 +88,3 @@
         }
     }
 ``` 
-![idea ce](https://i.ibb.co/sCrsXg7/idea-ce.png)
