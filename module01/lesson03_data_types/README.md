@@ -2,7 +2,7 @@
 
 ## Homework
 
-###1. Task for byte data type:
+### 1. Task for byte data type:
     Write a fragment of the class (group of commands) that will assign 
     the first value: ​​127, and the second: 254, 
     and then the third variable will receive a value 
@@ -17,7 +17,7 @@
         }
     }
 ```  
-###2. Task for short data type:
+### 2. Task for short data type:
     Write a fragment of the class (group of commands) that will assign 
     the values ​​-32768 and 32768 to two variables, 
     and then the third variable will receive a value 
@@ -32,7 +32,7 @@
             }
         }
 ```    
-###3. Task for int data type:
+### 3. Task for int data type:
     
     Write a class that assigns the value 1200 to x, and then displays: 
     in the first line: this value; 
@@ -48,7 +48,7 @@
             }
         }
 ```    
-###4. Task for long data type:
+### 4. Task for long data type:
     
     Print to the console the maximum value that can be of type long.
     Answer the question, where such a huge value can be used?
@@ -61,7 +61,7 @@
             }
         }
 ```    
-###5. Task for the float and double data types:
+### 5. Task for the float and double data types:
     Given a floating-point number "A", which stores 124565.554 kilograms of apples and a double number "B", 
     stores 22056.3785 kilograms of apples.
     Print the fractional part of the multiplication of these two numbers.
@@ -75,7 +75,7 @@
         }
     }
 ```  
-###6. Task for char data types:
+### 6. Task for char data types:
    Write a class which displays the character in the first line
    “+”, In the second - the sign “!”, In the third - the sign “?”.
     
