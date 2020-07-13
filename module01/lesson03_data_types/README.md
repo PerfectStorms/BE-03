@@ -3,10 +3,10 @@
 ## Homework
 
 ### 1. Task for byte data type:
-    Write a fragment of the class (group of commands) that will assign 
-    the first value: ​​127, and the second: 254, 
-    and then the third variable will receive a value 
-    equal to the substraction of the values ​​of the two variables.
+   Write a fragment of the class (group of commands) that will assign 
+   the first value: ​​127, and the second: 254, 
+   and then the third variable will receive a value 
+   equal to the substraction of the values ​​of the two variables.
     
     An example of the class name for this assignment is presented below:   
 ```java
@@ -18,10 +18,10 @@
     }
 ```  
 ### 2. Task for short data type:
-    Write a fragment of the class (group of commands) that will assign 
-    the values ​​-32768 and 32768 to two variables, 
-    and then the third variable will receive a value 
-    equal to the sum of the values ​​of the two variables.
+   Write a fragment of the class (group of commands) that will assign 
+   the values ​​-32768 and 32768 to two variables, 
+   and then the third variable will receive a value 
+   equal to the sum of the values ​​of the two variables.
     
     An example of the class name for this assignment is presented below:   
 ```java
@@ -34,10 +34,10 @@
 ```    
 ### 3. Task for int data type:
     
-    Write a class that assigns the value 1200 to x, and then displays: 
-    in the first line: this value; 
-    in the second line: the square of this value; 
-    in the third line: the cube of this value.
+   Write a class that assigns the value 1200 to x, and then displays: 
+   in the first line: this value; 
+   in the second line: the square of this value; 
+   in the third line: the cube of this value.
     
     An example of the class name for this assignment is presented below:   
 ```java
@@ -50,8 +50,8 @@
 ```    
 ### 4. Task for long data type:
     
-    Print to the console the maximum value that can be of type long.
-    Answer the question, where such a huge value can be used?
+   Print to the console the maximum value that can be of type long.
+   Answer the question, where such a huge value can be used?
     
     An example of the class name for this assignment is presented below:   
 ```java
@@ -62,9 +62,9 @@
         }
 ```    
 ### 5. Task for the float and double data types:
-    Given a floating-point number "A", which stores 124565.554 kilograms of apples and a double number "B", 
-    stores 22056.3785 kilograms of apples.
-    Print the fractional part of the multiplication of these two numbers.
+   Given a floating-point number "A", which stores 1245.554 kilograms of apples and a double number "B", 
+   stores 256.3785 kilograms of apples.
+   Print the fractional part of the multiplication of these two numbers.
     
     An example of the class name for this assignment is presented below:   
 ```java
