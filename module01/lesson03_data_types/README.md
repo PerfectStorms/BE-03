@@ -123,3 +123,40 @@ public class Main {
 }
 ```
 ![idea ce](https://psv4.userapi.com/c856428/u233000110/docs/d11/5923c115b748/schislenie.png?extra=_Wf_pdTeP_S_kbWjukRnY5_AOLTlEbkUHXYCEQwYfL1xU4fYIxXa-qyOT2z1pCN0rvSSAGX2LzQP5Erv0umtCscsqpcoYocIOvBQ3dPf4IGYBHxNC73bl2arvY8MXmU3U7BxlN8QhGg-TjDPzs6L3OY)
+### 8. 
+Convert the decimal number 123 to a number system: binary, octal, hexadecimal.
+For example:
+```java
+public class Main {
+    public static void main(String... args) {
+        // 15/2 = 7 (1)
+        // 7/2 = 3 (1)
+        // 3/2 = 1 (1)
+        // 1/2 = 0 (1) 
+        int num15b = 0b1111;// число 15 в двоичной системе счисления
+
+        // 15/8 = 1 (7)
+        // 1/8 = 0 (1)
+        int num15 = 017;// число 15 в восьмеричной
+
+        // 111/16 = 6(15)
+        // 6/16 = 0(6)
+        int num111 = 0x6F;// число 111 в шестнадцатеричной
+
+        // остаток 10 это A
+        // остаток 11 это B
+        // остаток 12 это C
+        // остаток 13 это D
+        // остаток 14 это E
+        // остаток 15 это F
+    }
+}
+```
+![idea ce](https://psv4.userapi.com/c856428/u233000110/docs/d11/5923c115b748/schislenie.png?extra=_Wf_pdTeP_S_kbWjukRnY5_AOLTlEbkUHXYCEQwYfL1xU4fYIxXa-qyOT2z1pCN0rvSSAGX2LzQP5Erv0umtCscsqpcoYocIOvBQ3dPf4IGYBHxNC73bl2arvY8MXmU3U7BxlN8QhGg-TjDPzs6L3OY)
+### 9 Difference between primitive and reference data types. 
+
+Show the differences between reference and primitive data types using any program as an example.
+
+What is stored on stack, heap for primitive and reference data types?
+
+Wrapper classes for primitive data types how much memory is occupied?
