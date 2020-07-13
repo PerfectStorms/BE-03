@@ -93,28 +93,33 @@ public class ProgramTask36 {
    
    ![idea ce](https://sun1-26.userapi.com/sXQ5FmANRFj1uozHUzlC8UwgnVcQRm5hde0SAA/kWwE0cH1Nfs.jpg)
 
-### 8. Print data types for remember:
-Please print range of all primitive data types with comments.
+### 8. Convertation
+Convert the decimal number 123 to a number system: binary, octal, hexadecimal.
 For example:
 ```java
 public class Main {
     public static void main(String... args) {
-        // numbers
-        byte number1  = 1; // 1 byte = 8 bit; min: -128, max: 127
-        short number2 = 2; // ...
-        int number3   = 3; // ...
-        long number4  = 4; // ...
-        
-        // demical
-        float demicalNumber1 = 1.2f; // ...
-        double demicalNumber2 = 1.2; // ...
-        
-        // char
-        char character = 'A'; // ...
-        
-        // logical
-        boolean logicalData = true; // or false (by default is false)
-    }
+        // 15/2 = 7 (1)
+        // 7/2 = 3 (1)
+        // 3/2 = 1 (1)
+        // 1/2 = 0 (1) 
+        int num15b = 0b1111;// число 15 в двоичной системе счисления
 
+        // 15/8 = 1 (7)
+        // 1/8 = 0 (1)
+        int num15 = 017;// число 15 в восьмеричной
+
+        // 111/16 = 6(15)
+        // 6/16 = 0(6)
+        int num111 = 0x6F;// число 111 в шестнадцатеричной
+
+        // остаток 10 это A
+        // остаток 11 это B
+        // остаток 12 это C
+        // остаток 13 это D
+        // остаток 14 это E
+        // остаток 15 это F
+    }
 }
 ```
+![idea ce](https://www.google.com/url?sa=i&url=http%3A%2F%2Fgurulev1940.narod.ru%2Fsistschislenia.htm&psig=AOvVaw14E3UFNtA0fkAHHnAMimTb&ust=1594761406204000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDTn7iTy-oCFQAAAAAdAAAAABAK)
