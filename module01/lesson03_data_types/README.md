@@ -89,4 +89,5 @@
     }
 ``` 
 ### 7. Task for all data types:
+   Below are the lines of code. Check those that will be compiled without errors
    ![idea ce](https://sun1-26.userapi.com/sXQ5FmANRFj1uozHUzlC8UwgnVcQRm5hde0SAA/kWwE0cH1Nfs.jpg)
