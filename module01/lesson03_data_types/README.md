@@ -97,7 +97,7 @@ public class ProgramTask36 {
 Convert the decimal number 123 to a number system: binary, octal, hexadecimal.
 For example:
 ```java
-public class Main {
+public class ProgramTask38 {
     public static void main(String... args) {
         // 15/2 = 7 (1)
         // 7/2 = 3 (1)
