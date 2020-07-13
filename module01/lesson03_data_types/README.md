@@ -123,7 +123,7 @@ public class Main {
 }
 ```
 ![idea ce](https://psv4.userapi.com/c856428/u233000110/docs/d11/5923c115b748/schislenie.png?extra=_Wf_pdTeP_S_kbWjukRnY5_AOLTlEbkUHXYCEQwYfL1xU4fYIxXa-qyOT2z1pCN0rvSSAGX2LzQP5Erv0umtCscsqpcoYocIOvBQ3dPf4IGYBHxNC73bl2arvY8MXmU3U7BxlN8QhGg-TjDPzs6L3OY)
-### 9 Difference between primitive and reference data types. 
+### 9. Difference between primitive and reference data types. 
 
 Show the differences between reference and primitive data types using any program as an example. (in a program)
 
