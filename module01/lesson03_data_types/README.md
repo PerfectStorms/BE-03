@@ -130,3 +130,4 @@ Show the differences between reference and primitive data types using any progra
 What is stored on stack, heap for primitive and reference data types? (please answer to the question in the comments to the program)
 
 Wrapper classes for primitive data types how much memory is occupied? (please answer to the question in the comments to the program)
+![idea ce](https://psv4.userapi.com/c856216/u233000110/docs/d6/7e9093dca4ce/stackheap.jpg?extra=cWkq-KN6RHDskEuCmTe2gLRgjnHo28oR1Bp01KBwyrJ7mb8st97wXqArKwJiurM436ciuUnyVzTD9eiZoh1RFrXlOCPi6JD0mh0SyY8p0fXhLVlJQQb5MB-QJnuqBwUJxMvzHKJd-s_VI_WiKP8c6n4)
