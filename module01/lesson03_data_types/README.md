@@ -122,4 +122,4 @@ public class Main {
     }
 }
 ```
-![idea ce](https://www.google.com/url?sa=i&url=http%3A%2F%2Fgurulev1940.narod.ru%2Fsistschislenia.htm&psig=AOvVaw14E3UFNtA0fkAHHnAMimTb&ust=1594761406204000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDTn7iTy-oCFQAAAAAdAAAAABAK)
+![idea ce](https://psv4.userapi.com/c856428/u233000110/docs/d11/5923c115b748/schislenie.png?extra=_Wf_pdTeP_S_kbWjukRnY5_AOLTlEbkUHXYCEQwYfL1xU4fYIxXa-qyOT2z1pCN0rvSSAGX2LzQP5Erv0umtCscsqpcoYocIOvBQ3dPf4IGYBHxNC73bl2arvY8MXmU3U7BxlN8QhGg-TjDPzs6L3OY)
