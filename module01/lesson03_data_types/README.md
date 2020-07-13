@@ -75,7 +75,7 @@
         }
     }
 ```  
-### 6. Task for the char data types:
+### 6. Task for the char data type:
    Write a class which displays the character in the first line
    “+”, In the second - the sign “!”, In the third - the sign “?”.
     
