@@ -87,4 +87,5 @@
 // values ​​the char data type store and how much memory it take.
         }
     }
-```  
+``` 
+![idea ce](https://i.ibb.co/sCrsXg7/idea-ce.png)
