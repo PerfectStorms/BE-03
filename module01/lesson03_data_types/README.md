@@ -93,7 +93,7 @@ public class ProgramTask36 {
    
    ![idea ce](https://sun1-26.userapi.com/sXQ5FmANRFj1uozHUzlC8UwgnVcQRm5hde0SAA/kWwE0cH1Nfs.jpg)
 
-### 8. Convertation
+### 8. Convertation.
 Convert the decimal number 123 to a number system: binary, octal, hexadecimal.
 For example:
 ```java
