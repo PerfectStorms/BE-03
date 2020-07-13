@@ -92,3 +92,29 @@ public class ProgramTask36 {
     Below are the lines of the code. Mark those that will be compiled without errors.
    
    ![idea ce](https://sun1-26.userapi.com/sXQ5FmANRFj1uozHUzlC8UwgnVcQRm5hde0SAA/kWwE0cH1Nfs.jpg)
+
+### 8. Print data types for remember:
+Please print range of all primitive data types with comments.
+For example:
+```java
+public class Main {
+    public static void main(String... args) {
+        // numbers
+        byte number1  = 1; // 1 byte = 8 bit; min: -128, max: 127
+        short number2 = 2; // ...
+        int number3   = 3;
+        long number4  = 4;
+        
+        // demical
+        float demicalNumber1 = 1.2f;
+        float demicalNumber2 = 1.2;
+        
+        // char
+        // ...
+        
+        // logical
+        // ...
+    }
+
+}
+```
