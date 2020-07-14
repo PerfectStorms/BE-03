@@ -51,7 +51,7 @@ public class ProgramTask33 {
 ### 4. Task for the long data type:
     
    Print to the console the maximum value that can be of type long.
-   Answer the question, where such a huge value can be used?
+   Answer the question, where such data type can be used?
     
     An example of the class name for this assignment is presented below:   
 ```java
