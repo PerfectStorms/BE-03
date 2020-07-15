@@ -6,7 +6,7 @@
    Write a fragment of the class (group of commands) that will assign 
    the first value: ​​127, and the second: 255, 
    and then the third variable will receive a value 
-   equal to the substraction of the values ​​of the two variables.The result should be with a byte data type.
+   equal to the substraction of the values ​​of the two variables. The result should be with a byte data type.
     
     An example of the class name for this assignment is presented below:   
 ```java
@@ -21,7 +21,7 @@ public class ProgramTask31 {
    Write a fragment of the class (group of commands) that will assign 
    the values ​​-32768 and 32768 to two variables, 
    and then the third variable will receive a value 
-   equal to the sum of the values ​​of the two variables.The result should be with a short data type.
+   equal to the sum of the values ​​of the two variables. The result should be with a short data type.
     
     An example of the class name for this assignment is presented below:   
 ```java
