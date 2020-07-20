@@ -3,7 +3,7 @@
 ## Homework
 
 ### 1. Task with "if" statement
-What will be output to the console?
+What will be displayed on the console as a result?
 ```java
 int a = 7;
 int b = --a;
@@ -14,7 +14,7 @@ if (b == 7) {
 ```
 
 ### 2. Task with "if - else" statement
-What will be output to the console?
+What will be displayed on the console as a result?
 ```java
 int c = 3, d = 2;
 
@@ -26,11 +26,11 @@ if (c = d++) {
 ```
 
 ### 3. Task with "if - else if" statement
-There are 3 numbers: 34, 2, 78. Compare them. 
+There are 3 numbers: 34, 2, 78 (type int). Compare them using "if - else -if" statement. 
 Find the maximum and find the minimum.
 
 ### 4. Task with "nested if" statement
-What will be output to the console?
+What will be displayed on the console as a result?
 Correct only one symbol to change existing output to other outputs.
 ```java
 int a = 10;
@@ -66,10 +66,10 @@ if(num > 10) {
 ### 6. Task with "switch - case" statement
 There is the number of month (type int). 
 You need to determine the season of year (winter, spring,
-summer, autumn) and output to the console. 
+summer, autumn) and display on the console. 
 
 ### 7. Task with "switch - case" statement
-Correct the code to get right output to the console.
+Fix the code to get correct console output.
 ```java
  String day = "wednesday"; // it can be any day
         switch(day) {
