@@ -64,14 +64,22 @@ if(num > 10) {
 ```
 
 ### 6. Task with "switch - case" statement
-There is the number of month (type int). 
-You need to determine the season of year (winter, spring,
-summer, autumn) and display on the console. 
+Enter the number of month or any number from keyboard using Scanner (type int). 
+```java
+System.out.println("Enter any number.");
+Scanner scanner = new Scanner(System.in);
+int month = scanner.nextInt();
+```
+You need write a programme to determine the season of year (winter, spring,
+summer, autumn) and display it on the console. Don't forget about default meaning. 
 
 ### 7. Task with "switch - case" statement
 Fix the code to get correct console output.
 ```java
- String day = "wednesday"; // it can be any day
+System.out.println("Enter the day of the week.");
+Scanner scanner = new Scanner(System.in);
+String day = scanner.read(); // it can be any day
+
         switch(day) {
             case "monday":
                 System.out.println("This is the first day of the week");
