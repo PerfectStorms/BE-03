@@ -78,7 +78,7 @@ Fix the code to get correct console output.
 ```java
 System.out.println("Enter the day of the week.");
 Scanner scanner = new Scanner(System.in);
-String day = scanner.read(); // it can be any day
+String day = scanner.next(); // it can be any day
 
         switch(day) {
             case "monday":
