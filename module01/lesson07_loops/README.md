@@ -22,7 +22,7 @@ You are given an array with elements 10, 20, 15, 17, 24, 35. Find the multiplica
 Write this to the variable "mul".
 
 
-##Additional tasks for those wishing to practice
+## Additional tasks for those wishing to practice
 
 ### 4.
 Display a picture in the console:
