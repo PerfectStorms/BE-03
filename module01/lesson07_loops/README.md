@@ -35,3 +35,8 @@ Display a picture in the console:
      ***********
     *************
 ```
+### 5.
+The user enters integers sequentially from the keyboard. After the user has entered zero, 
+it is necessary to display the sum of all entered numbers.
+
+### 6.
