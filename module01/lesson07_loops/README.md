@@ -25,7 +25,7 @@ Write this to the variable "mul".
 ## Additional tasks for those wishing to practice
 
 ### 4.
-Display a picture in the console:
+Display a picture in the console, using loop:
 ```java
           *
          ***
