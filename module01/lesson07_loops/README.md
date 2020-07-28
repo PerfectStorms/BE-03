@@ -26,6 +26,7 @@ Write this to the variable "mul".
 
 ### 4.
 Display a picture in the console:
+```java
           *
          ***
         *****
@@ -33,3 +34,4 @@ Display a picture in the console:
       *********
      ***********
     *************
+```
