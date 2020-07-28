@@ -40,3 +40,8 @@ The user enters integers sequentially from the keyboard. After the user has ente
 it is necessary to display the sum of all entered numbers.
 
 ### 6.
+Enter an integer and determine if the entry contains duplicate numbers. Print "Yes" to the console, if any. Otherwise "No".
+
+### 7.
+Country XYZ has a population of 10 million. The birth rate is 14 people per 1000 people, the death rate is 8 people. 
+Calculate what the population will be in 10 years, taking into account that the birth and death rates are constant.
