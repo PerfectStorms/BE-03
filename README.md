@@ -9,7 +9,7 @@
 - ~~Conditional statements (if-else, switch-case).~~
 - ~~Arrays (one-dimensional, two-dimensional).~~
 - ~~Loops (for, while, do while, foreach)~~.
-- Methods (overloading, recursion).
+- ~~Methods (overloading, recursion)~~.
 - Class String, StringBuilder, and StringBuffer.
 
 ### Module 2. Object Oriented Programming
