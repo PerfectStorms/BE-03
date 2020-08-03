@@ -10,7 +10,7 @@
 - ~~Arrays (one-dimensional, two-dimensional).~~
 - ~~Loops (for, while, do while, foreach)~~.
 - ~~Methods (overloading, recursion)~~.
-- ~~Class String, StringBuilder, and StringBuffer.
+- ~~Class String, StringBuilder, and StringBuffer.~~
 
 ### Module 2. Object Oriented Programming
 - Class. An object.
