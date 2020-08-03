@@ -4,12 +4,14 @@
 
 ### 1. Count strings
 How many objects will be in a String Pool?
+```
 String st = "Java";
 String st2 = new String("Java");
 String st3 = st2.intern();
 String st4 = "java";
 String st = null;
 String st6 = new String("JAVA");
+```
 
 ### 2. Correct a string
 You have a phrase "London - is a capital of England". You need to change this phrase to 
