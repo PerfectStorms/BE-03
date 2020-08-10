@@ -30,9 +30,9 @@
 ### Module 3. Collections
 - Types of collections. Collections interface. Collection hierarchy.
 - List interface.
-- Interface Set.
-- Queue Interface
 - Map interface.
+- Set interface.
+- Queue interface
 - Immutable collections.
 - Thread safe collections.
 - Introduction to Design Patterns (Part 2).
