@@ -15,7 +15,7 @@
 ### Module 2. Object Oriented Programming
 - ~~Class. An object.~~
 - ~~Class Object. The main methods.~~
-- Abstract classes, interfaces, enumerations. Packages.
+- ~~Abstract classes, interfaces, enumerations. Packages.~~
 - Access modifiers and variable types.
 - Git opportunities for team development (Issue, Pull request,ect).
 - Abstraction and encapsulation.
