@@ -10,7 +10,7 @@ Create a class. In the main method create several instances of your class. Count
 a quantity of your instances.
 
 ### 3. Change variables.
-Create a class Lion with variable "name". Change the value of "name" creating special method (exclude a setter). 
+Create a class Lion with variable "name". Change the value of "name" by creating a special method (exclude the setter). 
 
 ### 4. Give the answer without using JVM.
 What would be displayed in the console?
