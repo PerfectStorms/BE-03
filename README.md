@@ -16,7 +16,7 @@
 - ~~Class. An object.~~
 - ~~Class Object. The main methods.~~
 - ~~Abstract classes, interfaces, enumerations. Packages.~~
-- Access modifiers and variable types.
+-~~Access modifiers and variable types.~~
 - Git opportunities for team development (Issue, Pull request,ect).
 - Abstraction and encapsulation.
 - Inheritance and polymorphism.
