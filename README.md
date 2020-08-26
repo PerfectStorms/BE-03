@@ -17,7 +17,7 @@
 - ~~Class Object. The main methods.~~
 - ~~Abstract classes, interfaces, enumerations. Packages.~~
 - ~~Access modifiers and variable types.~~
-- Git opportunities for team development (Issue, Pull request,ect).
+- ~~Git opportunities for team development (Issue, Pull request,ect).~~
 - Abstraction and encapsulation.
 - Inheritance and polymorphism.
 - Aggregation and composition.
