@@ -18,7 +18,7 @@
 - ~~Abstract classes, interfaces, enumerations. Packages.~~
 - ~~Access modifiers and variable types.~~
 - ~~Git opportunities for team development (Issue, Pull request,ect).~~
--  ~~Abstraction and encapsulation.
+-  ~~Abstraction and encapsulation.~~
 - Inheritance and polymorphism.
 - Aggregation and composition.
 - Types of classes. Nested, internal, internal static, anonymous classes
