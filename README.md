@@ -12,20 +12,8 @@
 - ~~Methods (overloading, recursion)~~.
 - ~~Class String, StringBuilder, and StringBuffer.~~
 
-#### Who passed first module:
-- [Marina](https://github.com/Marina2302);
-- [Andrey](https://github.com/Quertte);
-- [Valera](https://github.com/ValeraDanilov);
-- [Dastan](https://github.com/McHutov);
-- [Aleksandr](https://github.com/grom4er/MyFirstGitRepo);
-- [Kirill](https://github.com/MaTiFaX);
-- [Vladislav](https://github.com/Kseenod);
-- [Sergey](https://github.com/Fr0z3Nn);
-- [Stas]( https://github.com/stas8987);
-- [Natalia](https://github.com/Natalya-Zay/repositoryStorm);
-- [Diana](https://github.com/klarimonda).
+#### Who passed first module: [Marina](https://github.com/Marina2302), [Andrey](https://github.com/Quertte), [Valera](https://github.com/ValeraDanilov), [Dastan](https://github.com/McHutov), [Aleksandr](https://github.com/grom4er/MyFirstGitRepo), [Kirill](https://github.com/MaTiFaX), [Vladislav](https://github.com/Kseenod), [Sergey](https://github.com/Fr0z3Nn), [Stas]( https://github.com/stas8987), [Natalia](https://github.com/Natalya-Zay/repositoryStorm), [Diana](https://github.com/klarimonda).
  
-
 ### Module 2. Object Oriented Programming
 - ~~Class. An object.~~
 - ~~Class Object. The main methods.~~
