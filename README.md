@@ -18,15 +18,15 @@
 - ~~Abstract classes, interfaces, enumerations. Packages.~~
 - ~~Access modifiers and variable types.~~
 - ~~Git opportunities for team development (Issue, Pull request,ect).~~
-- Abstraction and encapsulation.
+-  ~~Abstraction and encapsulation.
 - Inheritance and polymorphism.
 - Aggregation and composition.
 - Types of classes. Nested, internal, internal static, anonymous classes
 - Exceptional situations. Hierarchy of exceptions.
 - Classes, Reflection.
 - Generalized types.
+- An Introduction to Design Patterns (Part 1). Builder, Singleton, Prototype, Factory method, Abstract factory. 
 - Basics of class design. UML diagrams.
-- An Introduction to Design Patterns (Part 1).
 
 ### Module 3. Collections
 - Types of collections. Collections interface. Collection hierarchy.
