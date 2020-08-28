@@ -15,7 +15,7 @@ Each class with information must declare several constructors.
   #### c) a list of apartments with an area exceeding the specified one.
   
   ### Questions:
-  1)
+  ####1
   Why has object-oriented programming replaced procedural programming?
               
   Answer:
