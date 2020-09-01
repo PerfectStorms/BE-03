@@ -9,7 +9,7 @@ String st = "Java";
 String st2 = new String("Java");
 String st3 = st2.intern();
 String st4 = "java";
-String st = null;
+String st5 = null;
 String st6 = new String("JAVA");
 ```
 
