@@ -14,8 +14,8 @@ String st6 = new String("JAVA");
 ```
 
 ### 2. Correct a string
-You have a phrase "London - is a capital of England". You need to change this phrase to 
-"London - is a capital of Great Britain".
+You have a phrase "London - is the capital of England". You need to change this phrase to 
+"London - is the capital of Great Britain".
 
 ### 3. Make a word from parts
 Enter 2 words consisting of an even number of letters. 
