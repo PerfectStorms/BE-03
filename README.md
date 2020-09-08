@@ -23,7 +23,7 @@
 15. ~~Abstraction and encapsulation.~~
 16. ~~Inheritance and polymorphism.~~
 17. ~~Aggregation and composition.~~
-18. Types of classes. Nested, internal, internal static, anonymous classes
+18. ~~Types of classes. Nested, internal, internal static, anonymous classes~~
 19. Exceptional situations. Hierarchy of exceptions.
 20. Classes, Reflection.
 21. Generalized types.
