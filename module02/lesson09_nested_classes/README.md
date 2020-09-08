@@ -2,17 +2,17 @@
 
 ## Homework
 
-### 1. Realize a class with subclasses.
-You have a class Car. The structure of working with this class is as follows:
+### 1. Wake up Neo.
+You have a class Programmer. The structure of working with this class is as follows:
 ```java
-Programmer programmer = new Programmer("Neo", 32);
-Programmer.Stack stack = new Programmer.Stack(Arrays.asList("Java", "Spring", "Kotlin", "Postgresql", "Conspiracy theory"));
+Programmer programmer = new Programmer("Tomas", 32);
+Programmer.Stack stack = new Programmer.Stack(new String[]{"Java", "Spring", "Kotlin", "Postgresql", "Conspiracy theory"});
 
 System.out.println(programmer.analysis(stack));
 ```
 
 After you write this, the console will display:
-> In the matrix there is a new programmer named **Neo**, he is **32** years old. <br>
+> In the matrix there is a new programmer named **Tomas**, he is **32** years old. <br>
 > Approximate work experience - **6** years. <br>
 > Threat level: Serious, establish surveillance!
 
@@ -29,7 +29,7 @@ public Programmer(String name, int age) {
 } 
 ```
 
-Stack - public static nested class with **List of Strings skills** field. <br>
+Stack - public static nested class with String array **skills** field. <br>
 And **analysis()** method should return the values indicated below for our programmer's current stack.
 
 <p>
