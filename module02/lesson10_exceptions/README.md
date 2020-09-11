@@ -7,7 +7,7 @@
 Code given. What code is enough to add to the inc () method instead of a comment 
 so that the compilation goes without errors? (choose 2).
 ```java
-class Quest1{
+class Quest1 {
 int counter;
 java.io.OutputStream out; Quest1(){/* инициализация out */} float inc() {
 try { counter++;
