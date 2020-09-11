@@ -12,7 +12,7 @@ int counter;
 java.io.OutputStream out; Quest1(){/* инициализация out */} float inc() {
 try { counter++;
      out.write(counter); }
-//комментарий
+//comment
 }}
 ```
 Answers:
@@ -77,7 +77,7 @@ class Base {
 public void show(int i) {/realisation*/}
 }
 public class Quest4 extends Base{
-//КОД
+//code
 }
 ```
 Answers:
