@@ -27,7 +27,7 @@
 19.  ~~Exceptional situations. Hierarchy of exceptions.~~
 20. ~~Classes, Reflection.~~
 21. ~~Generalized types.~~
-22. An Introduction to Design Patterns (Part 1). Creational: Builder, Singleton, Prototype, Factory method, Abstract factory. 
+22. ~~An Introduction to Design Patterns (Part 1). Creational: Builder, Singleton, Prototype, Factory method, Abstract factory.~~ 
 23. Basics of class design. UML diagrams.
 
 ### Module 3. Collections
