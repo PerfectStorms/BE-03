@@ -1,3 +1,3 @@
-# Introduction to Collection Types.
+# Introduction to Collection
 
-## In process....
+## Rewrite the final task after the first module using collections.
