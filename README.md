@@ -31,7 +31,7 @@
 23. ~~Basics of class design. UML diagrams.~~
 
 ### Module 3. Collections
-24. Types of collections. Collections interface. Collection hierarchy.
+24. ~~Types of collections. Collections interface. Collection hierarchy.~~
 25. List interface.
 26. Map interface.
 27. Set interface.
