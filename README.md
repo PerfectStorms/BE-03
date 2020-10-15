@@ -32,7 +32,7 @@
 
 ### Module 3. Collections
 24. ~~Types of collections. Collections interface. Collection hierarchy.~~
-25. List interface.
+25. ~~List interface.~~
 26. Map interface.
 27. Set interface.
 28. Queue interface.
@@ -40,7 +40,8 @@
 30. The principles of SOLID.
 31. Class Date, LocalDate, Calendar and different formatters.
 32. Immutable collections. Lymbds.
-33. Introduction to Design Patterns (Part 2). Structural: Adapter, Facade, Composite, Decorator, Proxy, Bridge, Flyweight.
+33.1. Introduction to Design Patterns (Part 2). Structural: Adapter, Facade, Composite, Decorator.
+33.2. Introduction to Design Patterns (Part 3). Structural: Proxy, Bridge, Flyweight.
 
 ### Module 4. JAVA IO and multithreading
 34. Input and output streams.
@@ -52,8 +53,9 @@
 40. Thread grouping. Demon streams.
 41. Competition. Package java.util.concurrent.
 42. Thread safe collections.
-43. Introduction to Design Patterns (Part 3). Behavioral: Strategy, Iterator, Observer, Memento, Command, Interpreter, Mediator, 
-  State, Template method, Visitor, Chain of responsibility. 
+43.1. Introduction to Design Patterns (Part 4). Behavioral: Strategy, Iterator, Observer, Memento.
+43.2. Introduction to Design Patterns (Part 5). Behavioral: Command, Interpreter, Mediator, State. 
+43.3. Introduction to Design Patterns (Part 6). Behavioral: Template method, Visitor, Chain of responsibility. 
 
 ### Module 5. Basics of WEB Technologies
 44. HTTP protocol. Sockets
