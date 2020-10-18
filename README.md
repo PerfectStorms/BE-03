@@ -40,43 +40,43 @@
 30. The principles of SOLID.
 31. Class Date, LocalDate, Calendar and different formatters.
 32. Immutable collections. Lymbds.
-33.1. Introduction to Design Patterns (Part 2). Structural: Adapter, Facade, Composite, Decorator.
-33.2. Introduction to Design Patterns (Part 3). Structural: Proxy, Bridge, Flyweight.
+33. Introduction to Design Patterns (Part 2). Structural: Adapter, Facade, Composite, Decorator.
+34. Introduction to Design Patterns (Part 3). Structural: Proxy, Bridge, Flyweight.
 
 ### Module 4. JAVA IO and multithreading
-34. Input and output streams.
-35. File input and output streams. RandomAccessFile.
-36. Classes File, Path, Files.
-37. Introduction to Stream API.
-38. Introduction to multithreaded programming. Create and run threads.
-39. Synchronization and interaction of flows. Volatile, synchronized, wait, notify.
-40. Thread grouping. Demon streams.
-41. Competition. Package java.util.concurrent.
-42. Thread safe collections.
-43.1. Introduction to Design Patterns (Part 4). Behavioral: Strategy, Iterator, Observer, Memento.
-43.2. Introduction to Design Patterns (Part 5). Behavioral: Command, Interpreter, Mediator, State. 
-43.3. Introduction to Design Patterns (Part 6). Behavioral: Template method, Visitor, Chain of responsibility. 
+35. Input and output streams.
+36. File input and output streams. RandomAccessFile.
+37. Classes File, Path, Files.
+38. Introduction to Stream API.
+39. Introduction to multithreaded programming. Create and run threads.
+40. Synchronization and interaction of flows. Volatile, synchronized, wait, notify.
+41. Thread grouping. Demon streams.
+42. Competition. Package java.util.concurrent.
+43. Thread safe collections.
+44. Introduction to Design Patterns (Part 4). Behavioral: Strategy, Iterator, Observer, Memento.
+45. Introduction to Design Patterns (Part 5). Behavioral: Command, Interpreter, Mediator, State. 
+46. Introduction to Design Patterns (Part 6). Behavioral: Template method, Visitor, Chain of responsibility. 
 
 ### Module 5. Basics of WEB Technologies
-44. HTTP protocol. Sockets
-45. Servlets in Java (Servlets)
-46. JDBC (Java Database Connectivity)
-47. SQL Basics (Select Query Language)
-48. Basics of database design. ERP charts.
-49. JSP Basics (Java Server Pages)
-50. HTML. Thymeleaf Basics.
-51. XML. JAXB Basics.
-52. Introduction to Design Patterns (Part 4). Antipatterns.
+47. HTTP protocol. Sockets
+48. Servlets in Java (Servlets)
+49. JDBC (Java Database Connectivity)
+50. SQL Basics (Select Query Language)
+51. Basics of database design. ERP charts.
+52. JSP Basics (Java Server Pages)
+53. HTML. Thymeleaf Basics.
+54. XML. JAXB Basics.
+55. Introduction to Design Patterns (Part 4). Antipatterns.
 
 ### Module 6. Modern Stack
-53. Spring Framework. Spring Core Basics (Part 1).
-54. Spring Framework. Spring Core Basics (Part 2).
-55. Spring boot.
-56. PostgreSQL Hibernate Basics
-57. Spring Framework. Spring Data Basics. JPA
-58. Spring Framework. Spring Security Basics.
-59. The basics of MongoDB.
-60. Docker.
-61. Kubernates.
-62. Continuous Integration. Circle CI. Travis CI. Github workflow.
-63. Continuous Delivery. Auto-project on the server.
+56. Spring Framework. Spring Core Basics (Part 1).
+57. Spring Framework. Spring Core Basics (Part 2).
+58. Spring boot.
+59. PostgreSQL Hibernate Basics
+60. Spring Framework. Spring Data Basics. JPA
+61. Spring Framework. Spring Security Basics.
+62. The basics of MongoDB.
+63. Docker.
+64. Kubernates.
+65. Continuous Integration. Circle CI. Travis CI. Github workflow.
+66. Continuous Delivery. Auto-project on the server.
