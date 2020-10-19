@@ -33,7 +33,7 @@
 ### Module 3. Collections
 24. ~~Types of collections. Collections interface. Collection hierarchy.~~
 25. ~~List interface.~~
-26. Map interface.
+26. ~~Map interface.~~
 27. Queue interface.
 28. Set interface.
 29. Interfaces Comparable and Comparator.
