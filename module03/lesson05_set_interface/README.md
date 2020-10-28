@@ -3,7 +3,7 @@
 ## Homework
 
 ### 1. Solve the task.
-Create a set of lines, enter 20 words into it that start with the letter "H".
+Create a set of lines, add 20 real words into it that start with the letter "H".
 
 ### 2. Solve the task.
 Enter from the console a string that contains only Latin letters, spaces, punctuation marks and dashes.
