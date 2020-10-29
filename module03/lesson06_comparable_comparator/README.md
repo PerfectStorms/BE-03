@@ -18,13 +18,16 @@ Create a Comparator for sort the objects by the models field (descending).
 Sort the collection of these objects use Comparator.
 Display it.
 
+### 4.
+
 Create a Comparator that will sort by model (ascending) and speed (descending).
 Note:
 If model matches, then sorts by speed.
+
 Example:
 Audi 250, Audi 210, BMW 253 ...
 
-### 4. Questions
+### 5. Questions
 1. What is Comparable?
 2. What is Comparator?
 3. What the compare () and compareTo () methods return. How it works?
