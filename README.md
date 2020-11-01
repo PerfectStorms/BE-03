@@ -36,7 +36,7 @@
 26. ~~Map interface.~~
 27. ~~Queue interface.~~
 28. ~~Set interface.~~
-29. Interfaces Comparable and Comparator.
+29. ~~Interfaces Comparable and Comparator.~~
 30. The principles of SOLID.
 31. Class Date, LocalDate, Calendar and different formatters.
 32. Immutable collections. Lymbds.
