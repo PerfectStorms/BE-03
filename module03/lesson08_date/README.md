@@ -37,7 +37,8 @@ see **TemporalAdjusters.firstDayOfNextMonth()**
 
 ### 3. Friday 13.*
 
-Implement a method that takes 2 different years as input. This method should select the year with the most Fridays 13.
+Implement a method that takes 2 different years as input. This method should select the year with the most Fridays 13 
+in the range between 1 year and the second (if years more than 1 - select the earliest).
 
 Exapmle:
 ```java
