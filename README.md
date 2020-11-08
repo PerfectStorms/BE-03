@@ -38,7 +38,7 @@
 28. ~~Set interface.~~
 29. ~~Interfaces Comparable and Comparator.~~
 30. ~~The principles of SOLID.~~
-31. Class Date, LocalDate, Calendar and different formatters.
+31. ~~Class Date, LocalDate, Calendar and different formatters.~~
 32. Immutable collections. Lymbds.
 33. Introduction to Design Patterns (Part 2). Structural: Adapter, Facade, Composite, Decorator.
 34. Introduction to Design Patterns (Part 3). Structural: Proxy, Bridge, Flyweight.
@@ -69,14 +69,16 @@
 55. Introduction to Design Patterns (Part 4). Antipatterns.
 
 ### Module 6. Modern Stack
-56. Spring Framework. Spring Core Basics (Part 1).
-57. Spring Framework. Spring Core Basics (Part 2).
+56. Spring Core Basics (Part 1). IoC, DI.
+57. Spring Core Basics (Part 2). AOP, SPL.
 58. Spring boot.
-59. PostgreSQL Hibernate Basics
-60. Spring Framework. Spring Data Basics. JPA
-61. Spring Framework. Spring Security Basics.
-62. The basics of MongoDB.
-63. Docker.
-64. Kubernates.
-65. Continuous Integration. Circle CI. Travis CI. Github workflow.
-66. Continuous Delivery. Auto-project on the server.
+59. SQL. PostgreSQL.
+60. JPA. Hibernate Basics.
+61. Spring Data Basics. 
+62. Spring Security Basics.
+63. The basics of MongoDB.
+64. Docker.
+65. Kubernates.
+66. Continuous Integration. Circle CI. Travis CI. Github workflow.
+67. Continuous Delivery. Auto-project on the server.
+68. OpenShift.
