@@ -39,7 +39,7 @@
 29. ~~Interfaces Comparable and Comparator.~~
 30. ~~The principles of SOLID.~~
 31. ~~Class Date, LocalDate, Calendar and different formatters.~~
-32. Immutable collections. Lymbds.
+32. ~~Immutable collections. Lymbds.~~
 33. Introduction to Design Patterns (Part 2). Structural: Adapter, Facade, Composite, Decorator.
 34. Introduction to Design Patterns (Part 3). Structural: Proxy, Bridge, Flyweight.
 
