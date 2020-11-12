@@ -64,7 +64,7 @@
 50. SQL Basics (Select Query Language)
 51. Basics of database design. ERP charts.
 52. JSP Basics (Java Server Pages)
-53. HTML. Thymeleaf Basics.
+53. HTML. Jsoup Basics.
 54. XML. JAXB Basics.
 55. Introduction to Design Patterns (Part 4). Antipatterns.
 
