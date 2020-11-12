@@ -48,8 +48,8 @@
 36. File input and output streams. RandomAccessFile.
 37. Classes File, Path, Files.
 38. Introduction to Stream API.
-39. Introduction to multithreaded programming. Create and run threads.
-40. Synchronization and interaction of flows. Volatile, synchronized, wait, notify.
+39. Serialization, Deserialization (Externalizable).
+40. Introduction to multithreaded programming. Volatile, synchronized, wait, notify.
 41. Thread grouping. Demon streams.
 42. Competition. Package java.util.concurrent.
 43. Thread safe collections.
@@ -72,13 +72,14 @@
 56. Spring Core Basics (Part 1). IoC, DI.
 57. Spring Core Basics (Part 2). AOP, SPL.
 58. Spring boot.
-59. SQL. PostgreSQL.
-60. JPA. Hibernate Basics.
-61. Spring Data Basics. 
-62. Spring Security Basics.
-63. The basics of MongoDB.
-64. Docker.
-65. Kubernates.
-66. Continuous Integration. Circle CI. Travis CI. Github workflow.
-67. Continuous Delivery. Auto-project on the server.
-68. OpenShift.
+59. Maven, JavaFX 
+60. SQL. PostgreSQL.
+61. JPA. Hibernate Basics.
+62. Spring Data Basics. 
+63. Spring Security Basics.
+64. The basics of MongoDB.
+65. Docker.
+66. Kubernates.
+67. Continuous Integration. Circle CI. Travis CI. Github workflow.
+68. Continuous Delivery. Auto-project on the server.
+69. OpenShift.
