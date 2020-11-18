@@ -40,8 +40,8 @@
 30. ~~The principles of SOLID.~~
 31. ~~Class Date, LocalDate, Calendar and different formatters.~~
 32. ~~Immutable collections. Lymbds.~~
-33. Introduction to Design Patterns (Part 2). Structural: Adapter, Facade, Composite, Decorator.
-34. Introduction to Design Patterns (Part 3). Structural: Proxy, Bridge, Flyweight.
+33. ~~Introduction to Design Patterns (Part 2). Structural: Adapter, Facade, Composite, Decorator.~~
+34. ~~Introduction to Design Patterns (Part 3). Structural: Proxy, Bridge, Flyweight.~~
 
 ### Module 4. JAVA IO and multithreading
 35. Input and output streams.
