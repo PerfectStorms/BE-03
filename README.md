@@ -44,7 +44,7 @@
 34. ~~Introduction to Design Patterns (Part 3). Structural: Proxy, Bridge, Flyweight.~~
 
 ### Module 4. JAVA IO and multithreading
-35. Input and output streams.
+35. ~~Input and output streams.~~
 36. File input and output streams. RandomAccessFile.
 37. Classes File, Path, Files.
 38. Introduction to Stream API.
