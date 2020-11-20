@@ -66,7 +66,7 @@
 52. JSP Basics (Java Server Pages)
 53. HTML. Jsoup Basics.
 54. XML. JAXB Basics.
-55. Introduction to Design Patterns (Part 4). Antipatterns.
+55. Introduction to Design Patterns (Part 7). Antipatterns.
 
 ### Module 6. Modern Stack
 56. Spring Core Basics (Part 1). IoC, DI.
