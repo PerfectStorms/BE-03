@@ -49,7 +49,7 @@
 37. ~~Classes File, Path, Files.~~
 38. ~~Introduction to Stream API.~~
 39. ~~Serialization, Deserialization (Externalizable).~~
-40. Introduction to multithreaded programming. Volatile, synchronized, wait, notify.
+40. ~~Introduction to multithreaded programming. Volatile, synchronized, wait, notify.~~
 41. Thread grouping. Demon streams.
 42. Competition. Package java.util.concurrent.
 43. Thread safe collections.
