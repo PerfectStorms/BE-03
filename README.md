@@ -50,7 +50,7 @@
 38. ~~Introduction to Stream API.~~
 39. ~~Serialization, Deserialization (Externalizable).~~
 40. ~~Introduction to multithreaded programming. Volatile, synchronized, wait, notify.~~
-41.~~Thread grouping. Demon streams.~~
+41. ~~Thread grouping. Demon streams.~~
 42. Thread safe collections.
 43. Competition. Package java.util.concurrent.
 44. Introduction to Design Patterns (Part 4). Behavioral: Strategy, Iterator, Observer, Memento.
