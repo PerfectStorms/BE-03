@@ -52,8 +52,8 @@
 40. ~~Introduction to multithreaded programming. Volatile, synchronized, wait, notify.~~
 41. ~~Thread grouping. Demon streams.~~
 42. ~~Thread safe collections.~~
-43. ~~Competition. Package java.util.concurrent.~~
-44. Introduction to Design Patterns (Part 4). Behavioral: Strategy, Iterator, Observer, Memento.
+43. Competition. Package java.util.concurrent.
+44. ~~Introduction to Design Patterns (Part 4). Behavioral: Strategy, Iterator, Observer, Memento.~~
 45. Introduction to Design Patterns (Part 5). Behavioral: Command, Interpreter, Mediator, State. 
 46. Introduction to Design Patterns (Part 6). Behavioral: Template method, Visitor, Chain of responsibility. 
 
