@@ -58,7 +58,7 @@
 46. Introduction to Design Patterns (Part 6). Behavioral: Template method, Visitor, Chain of responsibility. 
 
 ### Module 5. Basics of WEB Technologies
-47. HTTP protocol. Sockets
+47. ~~HTTP protocol. Sockets~~
 48. Servlets in Java (Servlets)
 49. JDBC (Java Database Connectivity)
 50. SQL Basics (Select Query Language)
