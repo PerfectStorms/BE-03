@@ -23,7 +23,7 @@ You can download it [here](https://www.oracle.com/java/technologies/javase/javas
 ```java
 public class MyFirstProgram {
     public static void main(String[] args) {
-        System.out.printLn("Hello JAVA!");
+        System.out.println("Hello JAVA!");
     }
 }
 ```
